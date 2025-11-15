@@ -11,6 +11,7 @@ export default function ParticlesBackground() {
     const colors = ["rgba(255,255,255,0.7)"];
 
     // Particle class
+    
     class Particle {
       constructor() {
         this.x = Math.random() * canvas.width;
