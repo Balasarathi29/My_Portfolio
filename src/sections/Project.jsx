@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const Project = () => {
-  return (
-    <div className='w-full h-screen'>Project</div>
-  )
-}
+  return <div className="w-full h-screen">Project</div>;
+};
 
-export default Project
+export default Project;
