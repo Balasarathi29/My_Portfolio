@@ -1,4 +1,5 @@
-import {AnimatePresence} from 'framer-motion'
+import { motion, AnimatePresence } from "framer-motion";
+
 import { FiX } from "react-icons/fi";
 
 export default function OverlayMenu({ isOpen, onClose }) {
